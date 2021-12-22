@@ -47,14 +47,17 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <br />
 
-<div>
+
+| <a href="https://github.com/Fayez-fyz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fayez-fyz&show_icons=true&theme=radical" alt="Anurag's github stats" /></a> | <a href="https://github.com/Fayez-fyz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayez-fyz&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+<!-- <div>
   
 ![Fayez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayez-fyz&show_icons=true&theme=radical)
 
 ### Top Langs:
 
 <a href="https://github.com/Fayez-fyz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayez-fyz&layout=compact&theme=radical&hide_border=true" /></a>
-</div>
+</div> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nero002&" alt="nero002" /></p> -->
 ![Fayez's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fayez-fyz&theme=dracula)
