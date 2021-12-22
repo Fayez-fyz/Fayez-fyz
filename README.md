@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Language and tools:
 
-<div>
+<code>
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img width="26px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-juL96wDgGX8nsS0y0jzmF7ZP-xsMzD_fsJT2eRQ6CWcVlvw5auPbCJEP-XqIw_k3II&usqp=CAU">
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-</div>
+</code>
 <br />
 
 
