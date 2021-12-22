@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play table tennis, football and explore new places with friends. 
 <br />
 <br />
+
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -35,7 +36,8 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-**Languages and Tools:**  
+
+### Language and tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -46,7 +48,7 @@ Here are some ideas to get you started:
 
 ![Fayez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayez-fyz&show_icons=true&theme=radical)
 
-![Top Langs]
+### Top Langs:
 
 <a href="https://github.com/Fayez-fyz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayez-fyz&layout=compact&theme=radical&hide_border=true" /></a>
 
