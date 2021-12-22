@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="20"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="20" style="color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+<code><img height="20" style="color:white;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="20" style="color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+<code><img height="20"  src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <br />
 
 
