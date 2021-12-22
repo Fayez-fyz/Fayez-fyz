@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/fayez-b-316684203/">
-<img align="left" alt="LinkedIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZttzMcKaaRPiD7XdgMGBPNP_9oFrnCWyrHQ&usqp=CAU" />
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/linkedin-ui-flat/48/LinkedIn_UI-03-512.png" />
 </a>
 <a href="mailto:zeyaffayez007@gmail.com">
 <img align="left" alt="Gmail" width="22px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
