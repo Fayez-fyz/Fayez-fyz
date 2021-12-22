@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love to play table tennis, football and explore new places with friends. 
 <br />
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/fayez-b-316684203/">
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+
 ### Language and tools:
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
