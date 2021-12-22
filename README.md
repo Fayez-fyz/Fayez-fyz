@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="20"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-juL96wDgGX8nsS0y0jzmF7ZP-xsMzD_fsJT2eRQ6CWcVlvw5auPbCJEP-XqIw_k3II&usqp=CAU"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /></code>
+<code><img height="20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /></code>
 <br />
 
 
