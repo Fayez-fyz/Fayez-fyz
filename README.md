@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/fayez-b-316684203/">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/linkedin-ui-flat/48/LinkedIn_UI-03-512.png" />
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="mailto:zeyaffayez007@gmail.com">
-<img align="left" alt="Gmail" width="22px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
+<img align="left" alt="Gmail" width="22px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />
 </a>
 
 <br />
