@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 </code>
+
+<br />
 <br />
 
 
