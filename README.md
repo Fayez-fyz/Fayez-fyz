@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <br />
 
 <div>
+  
 ![Fayez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayez-fyz&show_icons=true&theme=radical)
 
 ### Top Langs:
