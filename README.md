@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 ## Hi, I'm [Fayez !](https://fayez-portfolio.netlify.app/) 👋
 
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="20"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-juL96wDgGX8nsS0y0jzmF7ZP-xsMzD_fsJT2eRQ6CWcVlvw5auPbCJEP-XqIw_k3II&usqp=CAU"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="20"  src="https://camo.githubusercontent.com/c457309037aabdce151cc0e197d6db98234a31636ef41f2cc1c339832fe20de3/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6c6f676f732f6e6578746a732d6c6f676f2e706e67"></code>
+<code><i class="devicon-nextjs-original"></i></code>
 <br />
 
 
