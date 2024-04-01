@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm [Fayez !](https://fayez-portfolio.netlify.app/) 👋
 # 💫 About Me:
-🔭 I’m currently working as Full Stack Developer in [Hyring.com](https://www.hyring.com).<br>👨‍💻 Experienced Full Stack Developer with a passion for crafting efficient, scalable, and maintainable software solutions.<br>🚀 Proficient in a wide range of technologies, including JavaScript, TypeScript, React.js, Node.js, Express.js, and PostgreSQL.<br>🛠️ Skilled in designing and implementing RESTful APIs, optimizing application performance, and ensuring security best practices.<br>📈 Proven track record of delivering high-quality projects on time and collaborating effectively in cross-functional teams.<br>🌟 Excited to tackle new challenges and drive innovation in the field of web development.<br>📫 Reach me at [LinkedIn](https://www.linkedin.com/in/fayez-b-316684203/) or email me at [zeyaffayez007@gmail.com](zeyaffayez007@gmail.com)<br>😄 Pronouns: He/Him/His<br>
+🔭 I’m currently working as Full Stack Developer in [Hyring.com](https://www.hyring.com).<br>👨‍💻 Experienced Full Stack Developer with a passion for crafting efficient, scalable, and maintainable software solutions.<br>🚀 Proficient in a wide range of technologies, including JavaScript, TypeScript, React.js, Node.js, Express.js, Next.js, Nest.js, MongoDB and PostgreSQL.<br>🛠️ Skilled in designing and implementing RESTful APIs, optimizing application performance, and ensuring security best practices.<br>📈 Proven track record of delivering high-quality projects on time and collaborating effectively in cross-functional teams.<br>🌟 Excited to tackle new challenges and drive innovation in the field of web development.<br>📫 Reach me at [LinkedIn](https://www.linkedin.com/in/fayez-b-316684203/) or email me at [zeyaffayez007@gmail.com](zeyaffayez007@gmail.com)<br>😄 Pronouns: He/Him/His<br>
 
 
 ## 🌐 Socials:
@@ -36,12 +36,6 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Fayez-fyz&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<a href="https://github.com/Fayez-fyz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayez-fyz&layout=compact&theme=radical&hide_border=true" /></a>
-</div> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nero002&" alt="nero002" /></p> -->
-![Fayez's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fayez-fyz&theme=dracula)
 
 
 
